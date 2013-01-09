@@ -6,7 +6,7 @@
 	<meta http-equiv="Content-Type" content="text/html; charset=Shift_JIS">
  	<meta http-equiv="Content-Style-Type" content="text/css">
 	 <link rel="stylesheet"href="kadai02.css" type="text/css">
-	<title>課題02</title>
+	<title>課題02_1T4_30_鈴木明日香</title>
 </head>
 
 <body>
